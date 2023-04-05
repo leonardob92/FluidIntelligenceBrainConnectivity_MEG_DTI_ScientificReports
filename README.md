@@ -1,1 +1,9 @@
-# FluidIntelligenceBrainConnectivity_MEG_DTI_ScientificReports
+FluidIntelligenceBrainConnectivity_MEG_DTI_ScientificReports
+
+Matlab leading script for the paper entitled: "Dissociated brain functional connectivity of fast versus slow frequencies underlying individual differences in fluid intelligence: a DTI and MEG study" published in Scientific Reports. Bruzzone, S.E.P., Lumaca, M., Brattico, Vuust, P., Kringelbach, M. L. Bonetti, L. (2022).
+
+https://www.nature.com/articles/s41598-022-08521-5
+
+Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
+
+Abstract: Brain network analysis represents a powerful technique to gain insights into the connectivity profile characterizing individuals with different levels of fluid intelligence (Gf). Several studies have used diffusion tensor imaging (DTI) and slow-oscillatory resting-state fMRI (rs-fMRI) to examine the anatomical and functional aspects of human brain networks that support intelligence. In this study, we expand this line of research by investigating fast-oscillatory functional networks. We performed graph theory analyses on resting-state magnetoencephalographic (MEG) signal, in addition to structural brain networks from DTI data, comparing degree, modularity and segregation coefficient across the brain of individuals with high versus average Gf scores. Our results show that high Gf individuals have stronger degree and lower segregation coefficient than average Gf participants in a significantly higher number of brain areas with regards to structural connectivity and to the slower frequency bands of functional connectivity. The opposite result was observed for higher-frequency (gamma) functional networks, with higher Gf individuals showing lower degree and higher segregation across the brain. We suggest that gamma oscillations in more intelligent individuals might support higher local processing in segregated subnetworks, while slower frequency bands would allow a more effective information transfer between brain subnetworks, and stronger information integration.
